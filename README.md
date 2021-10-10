@@ -9,7 +9,6 @@ Find more info at http://ecaade-ris2020.universitetipolis.edu.al/tirana-datascap
 
 ## Requirements
 - [Rhinoceros](https://www.rhino3d.com/download/) (ideally 7)
-- [Urbano add-on](https://www.food4rhino.com/app/urbano) (v1.3.3)
 
 ## About the workshop
 The workshop will explore data storytelling for different aspects of Tirana’s urbanscape, and how those stories can be represented through computational drawings and physical models. The drawings and models are used as tools for thinking, speculating, investigating, and discovery. This art and science exercise, aims at creating a set of computational cartographic representations and models that are based on geospatial data and critical thinking.
