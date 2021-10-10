@@ -3,7 +3,7 @@ Drawing cartographical patterns for the city of Tirana through geospatial analys
 
 ![ecaade21-tds](https://user-images.githubusercontent.com/50297074/136700390-4406cc67-b229-40f9-b677-ab3a31703736.jpg)
 
-This repository is produced within the eCAADe Ris 2020 (October 2021) regional summit - Tirana Datascapes workshop - held by [Eugenio Bettucchi](https://www.linkedin.com/in/eugenio-bettucchi-b59683b5), [Erzë Dinarama](https://www.linkedin.com/in/erz%C3%AB-dinarama-20532558/), and [Iacopo Neri](https://www.linkedin.com/in/iacopo-neri-25a375132/). We would like to thank Edi Duro for the invaluable support during the set up phase of the workshop.
+This repository is produced within the eCAADe Ris 2020 (October 2021) regional summit - Tirana Datascapes workshop - led by [Eugenio Bettucchi](https://www.linkedin.com/in/eugenio-bettucchi-b59683b5), [Erzë Dinarama](https://www.linkedin.com/in/erz%C3%AB-dinarama-20532558/), and [Iacopo Neri](https://www.linkedin.com/in/iacopo-neri-25a375132/). We would like to thank Edi Duro for the invaluable support during the set up phase of the workshop.
 
 Find more info at http://ecaade-ris2020.universitetipolis.edu.al/tirana-datascape/
 
