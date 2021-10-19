@@ -11,5 +11,7 @@ Find more info at http://ecaade-ris2020.universitetipolis.edu.al/tirana-datascap
 - [Rhinoceros](https://www.rhino3d.com/download/) (ideally 7)
 
 ## About the workshop
-The workshop will explore data storytelling for different aspects of Tirana’s urbanscape, and how those stories can be represented through computational drawings and physical models. The drawings and models are used as tools for thinking, speculating, investigating, and discovery. This art and science exercise, aims at creating a set of computational cartographic representations and models that are based on geospatial data and critical thinking.
-The team of tutors will gather georeferenced data beforehand, for different aspects of the city of Tirana; from infrastructure, public space, landscape, to ecological data.
+The workshop will explore data storytelling for different aspects of Tirana’s urbanscape, and how those stories can be represented through computational drawings supported by robotic fabrication. The drawings and models are used as tools for thinking, speculating, investigating, and discovery. This art and science exercise, aims at creating a set of computational cartographic representations and models that are based on geospatial data and critical thinking.
+
+## Results
+![ecaade21](https://user-images.githubusercontent.com/50297074/137903760-fa0f7417-342e-422f-8005-1f0cb5509295.jpg)
